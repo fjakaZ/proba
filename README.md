@@ -2,5 +2,3 @@
 
 izbrisao sam jednu liniju
 i dodao ovo
-
-promjena lokalno
